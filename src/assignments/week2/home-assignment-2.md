@@ -86,10 +86,10 @@ Use it to render todos on the page (in `src/index.js`, see example below).
 
 ```javascript
 import { yourFunction } from 'path/to/yourFunction'
-const root = document.getElementById('app') // This assumes public/index.html has a
+const root = document.getElementById('app') // This assumes public/index.html has an element with id='app'
 root.replaceChildren(yourFunction())
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTg3NTc2MSwzOTA5NjU4NzJdfQ==
+eyJoaXN0b3J5IjpbLTE5MjE3OTg1OCwzOTA5NjU4NzJdfQ==
 -->
