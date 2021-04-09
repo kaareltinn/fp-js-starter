@@ -5,8 +5,6 @@ import {
   map,
   filterUndoneTodos,
   countTodos,
-  todoItem,
-  todoItems
 } from 'src/assignments/week2'
 
 describe('negate()', () => {
