@@ -1,5 +1,7 @@
 ## Home assignment 2
 
+Assignments are in `src/assignments/week2/index.js`. 
+
 #### 1. Write a function `negate` 
 `negate` takes a function that returns boolean and returns new function that returns also boolean,
 but the return value will be reversed compared to original function.
@@ -83,5 +85,5 @@ Write a function that accepts array of todos and returns array of todo item HTML
 Use it to render todos on the page.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwOTY1ODcyXX0=
+eyJoaXN0b3J5IjpbNTQ2NzIzNjYxLDM5MDk2NTg3Ml19
 -->
