@@ -82,8 +82,12 @@ Example:
 
 #### 8. Write a function `todoItems`
 Write a function that accepts array of todos and returns array of todo item HTML representations.
-Use it to render todos on the page.
+Use it to render todos on the page (in `src/index.js`, see example below).
+
+```javascript
+
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjEyMTUzNywzOTA5NjU4NzJdfQ==
+eyJoaXN0b3J5IjpbLTE0NTEzODI5MjQsMzkwOTY1ODcyXX0=
 -->
