@@ -1,6 +1,6 @@
 ## Home assignment 2
 
-Assignments are in `src/assignments/week2/index.js`. 
+Assignments are in `src/assignments/week2/index.js`. There is also corresnponding test file, `index.test.js`. Tests are there for you to guide you and give you examples how functions are used.
 
 #### 1. Write a function `negate` 
 `negate` takes a function that returns boolean and returns new function that returns also boolean,
@@ -85,5 +85,5 @@ Write a function that accepts array of todos and returns array of todo item HTML
 Use it to render todos on the page.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ2NzIzNjYxLDM5MDk2NTg3Ml19
+eyJoaXN0b3J5IjpbLTYwNjEyMTUzNywzOTA5NjU4NzJdfQ==
 -->
