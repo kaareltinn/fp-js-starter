@@ -85,9 +85,11 @@ Write a function that accepts array of todos and returns array of todo item HTML
 Use it to render todos on the page (in `src/index.js`, see example below).
 
 ```javascript
-
+import { yourFunction } from 'path/to/yourFunction'
+const root = document.getElementById('app') // This assumes public/index.html has a
+root.replaceChildren(yourFunction())
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTEzODI5MjQsMzkwOTY1ODcyXX0=
+eyJoaXN0b3J5IjpbMTEwNTg3NTc2MSwzOTA5NjU4NzJdfQ==
 -->
