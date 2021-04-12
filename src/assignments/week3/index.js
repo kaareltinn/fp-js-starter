@@ -1,4 +1,4 @@
-import { compose, prop, curry, sortBy, filter, gte, map } from 'ramda'
+import { curry } from 'ramda'
 
 export const persons = [
   {
