@@ -1,4 +1,4 @@
-import css from 'public/tailwind.css'
+import 'public/tailwind.css'
 
 import { add } from 'src/assignments/week1'
 
