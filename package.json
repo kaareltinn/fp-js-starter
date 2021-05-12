@@ -33,6 +33,7 @@
   "dependencies": {
     "@babel/polyfill": "^7.8.7",
     "enhanced-resolve": "^5.7.0",
-    "ramda": "^0.27.1"
+    "ramda": "^0.27.1",
+    "rxjs": "^7.0.1"
   }
 }
